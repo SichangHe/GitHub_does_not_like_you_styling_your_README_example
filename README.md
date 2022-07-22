@@ -1,4 +1,4 @@
 <link rel="stylesheet" href="index.css" />
 body
 <em>em</em>
-<strong>strong</strong>
+<strong class="text-red-600">strong</strong>
